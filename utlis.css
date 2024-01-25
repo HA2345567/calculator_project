@@ -1,0 +1,14 @@
+.text-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff8d;
+    
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: "poppins", sans-serif;
+}
